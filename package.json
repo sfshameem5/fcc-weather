@@ -1,0 +1,20 @@
+{
+  "name": "fcc-weather",
+  "version": "1.0.0",
+  "description": "Weather app for Free Code Camp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "Weather",
+    "Fcc"
+  ],
+  "author": "Shameem Fairooz",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
